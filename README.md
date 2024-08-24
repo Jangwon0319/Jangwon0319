@@ -22,7 +22,15 @@
 
 ## 💻 Experiences
 - 숭실대학교 IT 개발연합동아리 'UMC' 6th Server (2024.03 ~ 2024.09)
-- 숭실대학교 IT 학생회 'Commit' (2024.03 ~ 2024.12)
+- 숭실대학교 IT대학 학생회 'Commit' (2024.03 ~ 2024.12)
+
+
+<br>
+
+## 💫 Projects
+#### 🏆 UMC 6th Demoday 우수상 수상
+- [Server] DevCrew : IT 프로젝트를 위한 기획, 팀매칭, 소통, 프로젝트 관리 웹사이트
+
 
 
 <br>
@@ -31,20 +39,18 @@
 <p align="left">
   <a href="https://velog.io/@jangwon/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>&nbsp
   <a href="https://eggplant-rain-8d0.notion.site/1dd29143b8f9437183bac78cd7a9c1c9?pvs=74"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
-  <a href="https://www.instagram.com/j.circle_r/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-  <a href="ryujw0319@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/j.circle_r/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 <br>
 
 ## 🐱 Github Stats
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonyworld&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonyworld&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangwon0319&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonyworld&count_bg=%23E9CEC4&title_bg=%23D992E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJangwon0319&count_bg=%23E9CEC4&title_bg=%23D992E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
