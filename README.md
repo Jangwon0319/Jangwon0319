@@ -24,7 +24,7 @@
 - 숭실대학교 IT 개발연합동아리 'UMC' 6th Server - Spring Boot (2024.03 ~ 2024.09)
 - 숭실대학교 IT대학 학생회 'Commit' - Welfare Bureau Member (2024.03 ~ 2024.12)
 
-
+ 
 <br>
 
 ## 💫 Projects
