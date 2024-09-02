@@ -29,7 +29,7 @@
 
 ## 💫 Projects
 #### 🏆 UMC 6th Demoday 우수상 수상
-- [Server] Dev:Crew - IT 프로젝트를 위한 기획, 팀매칭, 소통, 프로젝트 관리 웹사이트 서비스
+- [Server-SpringBoot] Dev:Crew - IT 프로젝트를 위한 기획, 팀매칭, 소통, 프로젝트 관리 웹사이트 서비스
 
 
 
