@@ -47,7 +47,8 @@
 ## 🐱 Github Stats
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangwon0319&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+[![Jangwon's github stats](https://github-readme-stats.vercel.app/api?username=Jangwon0319&count_private=true&custom_title=Yunha%27s%20github%20%F0%9F%91%80&bg_color=45,F896C2,92B9E6&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
