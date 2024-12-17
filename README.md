@@ -29,9 +29,11 @@
 <br>
 
 ## 💫 Projects
-#### 🏆 UMC 6th Demoday 우수상 수상
-- [Server-SpringBoot] Dev:Crew - IT 프로젝트를 위한 기획, 팀매칭, 소통, 프로젝트 관리 웹사이트 서비스
+#### 🏆 UMC 6th Demoday 우수상 수상 - Dev:Crew
+- [Server-SpringBoot] IT 프로젝트를 위한 기획, 팀매칭, 소통, 프로젝트 관리 웹사이트 서비스
 
+#### 7th Ne(o)rdinary Hackathon - Momentree
+- [Server-SpringBoot] 12월 한 달간 일기를 기록하며 트리를 꾸미는 서비스
 
 
 <br>
@@ -39,6 +41,7 @@
 ## 🔎 Follow Me 
 <p align="left">
   <a href="https://velog.io/@jangwon/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>&nbsp
+  <a href="https://ryujwcode.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
   <a href="https://eggplant-rain-8d0.notion.site/1dd29143b8f9437183bac78cd7a9c1c9?pvs=74"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/j.circle_r/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
