@@ -21,9 +21,9 @@
 <br>
  
 ## 💻 Experiences
-- 숭실대학교 IT 개발연합동아리 'UMC' 6th Server - Spring Boot (2024.03 ~ 2024.09)
-- 숭실대학교 IT 개발연합동아리 'UMC' 7th Server - Spring Boot (2024.09 ~ )
-- 숭실대학교 IT대학 학생회 'Commit' - Welfare Bureau Member (2024.03 ~ 2024.12)
+- University MakeUs Challenge 6th Server Developer - Spring Boot (2024.03 ~ 2024.09)
+- University MakeUs Challenge 7th Server Developer - Spring Boot (2024.09 ~ 2024.02)
+- Student Council of IT Engineering, Soongsil University 'Commit' - Welfare Bureau Member (2024.03 ~ 2024.12)
 
  
 <br>
