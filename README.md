@@ -32,7 +32,7 @@
 #### 🏆 UMC 6th Demoday 우수상 수상 - Dev:Crew
 - [Server-SpringBoot] IT 프로젝트를 위한 기획, 팀매칭, 소통, 프로젝트 관리 웹사이트 서비스
 
-#### 7th Ne(o)rdinary Hackathon - Momentree
+#### 🎄 7th Ne(o)rdinary Hackathon - Momentree
 - [Server-SpringBoot] 12월 한 달간 일기를 기록하며 트리를 꾸미는 서비스
 
 
