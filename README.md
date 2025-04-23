@@ -53,10 +53,6 @@
 [![Jangwon's github stats](https://github-readme-stats.vercel.app/api?username=Jangwon0319&count_private=true&custom_title=Jangwon%27s%20github%20%F0%9F%91%80&bg_color=45,F896C2,92B9E6&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJangwon0319&count_bg=%23E9CEC4&title_bg=%23D992E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
 
